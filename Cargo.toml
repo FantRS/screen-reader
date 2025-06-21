@@ -1,0 +1,9 @@
+[package]
+name = "screen-reader"
+version = "0.1.1"
+edition = "2024"
+
+[dependencies]
+arboard = "3.5.0"
+image = "0.25.6"
+rusty-tesseract = "1.1.10"
