@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-- Cross-platform Rust implementation (Linux focused).
+- Rust implementation for Linux.
 - Uses `maim` for interactive screenshot capture.
 - OCR support for English, Ukrainian, and Russian.
 - Outputs recognized text directly into the clipboard.
