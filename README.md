@@ -46,7 +46,7 @@ https://github.com/5antUA/screen-reader/releases/download/screen/screen-reader
 
 ### Run binary application
 ```bash
-./screem-reader
+./screen-reader
 ```
 
 ---
