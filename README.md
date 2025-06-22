@@ -22,7 +22,7 @@ Make sure the following are installed:
 
 - `maim` (https://github.com/naelstrof/maim)
 - `xclip`
-- `tesseract-ocr` (https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file#installing-tesseract)
+- `tesseract-ocr` (https://github.com/tesseract-ocr/tesseract)
 - `tesseract-ocr` language data for: `eng`, `ukr`, `rus`
 
 ---
