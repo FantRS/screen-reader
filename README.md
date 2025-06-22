@@ -20,9 +20,9 @@
 
 Make sure the following are installed:
 
-- `maim`
+- `maim` (https://github.com/naelstrof/maim)
 - `xclip`
-- `tesseract-ocr`
+- `tesseract-ocr` (https://github.com/tesseract-ocr/tesseract?tab=readme-ov-file#installing-tesseract)
 - `tesseract-ocr` language data for: `eng`, `ukr`, `rus`
 
 ---
