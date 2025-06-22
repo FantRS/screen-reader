@@ -56,7 +56,7 @@ https://github.com/5antUA/screen-reader/releases/download/screen/screen-reader
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/screen-reader.git
+git clone https://github.com/5antUA/screen-reader.git
 cd screen-reader
 ```
 
