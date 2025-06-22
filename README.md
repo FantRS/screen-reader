@@ -11,6 +11,8 @@
 - OCR support for English, Ukrainian, and Russian.
 - Outputs recognized text directly into the clipboard.
 
+![screen](https://github.com/user-attachments/assets/7a4d33b1-db70-43ac-9f6a-2b72daa1a094)
+
 ---
 
 ## 📄 Requirements
