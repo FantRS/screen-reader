@@ -42,7 +42,7 @@ sudo apt install maim xclip
 ```
 
 ### Download binary from releases
-https://github.com/5antUA/screen-reader/releases/download/screen/screen-reader
+https://github.com/FantRS/screen-reader/releases/download/screen/screen-reader
 
 ### Run binary application
 ```bash
@@ -82,4 +82,4 @@ When you run it, a crosshair will appear for you to select the screen area. Afte
 ## 👨‍💻 Author
 **Rostyslav Kashper**  
 Rust dev / Game dev  
-GitHub: _[5antUA](https://github.com/5antUA)_
+GitHub: _[FantRS](https://github.com/FantRS)_
